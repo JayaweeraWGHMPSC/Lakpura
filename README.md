@@ -10,7 +10,7 @@ Designed features such as product categorization, shopping cart, and order histo
 
 Prioritized UI/UX design, optimizing for performance, accessibility, and seamless navigation across devices.
 
-🌍 The vision behind Lakpura was not just technical—it was cultural. The platform aimed to promote Sri Lankan heritage by giving artisans a digital presence to reach global audiences.
+🌍 The vision behind Lakpura was not just technical, it was cultural. The platform aimed to promote Sri Lankan heritage by giving artisans a digital presence to reach global audiences.
 
 This project was a meaningful first step in my web development journey, where I combined technical learning with cultural storytelling.
 
